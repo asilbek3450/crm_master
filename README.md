@@ -10,4 +10,3 @@
 4. Run requirements.txt - `pip install -r requirements.txt`
 5. Run the Application - `python manage.py runserver`
 6. Migrate
-
